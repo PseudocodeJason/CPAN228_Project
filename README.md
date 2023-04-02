@@ -13,5 +13,6 @@ Add support to request items for Clothes WarehouseProject in the distribution ce
 - If successful, stock should be replenished in warehouse anddeducted from distribution centre from which we get theitem, else we are redirected to the error page that containsmessage that stock can’t be replenished- Add bootstrap styling to all components (1%)
 
 Spring Initializr
-![image](https://user-images.githubusercontent.com/32995324/229323703-5c9d672d-d94b-4fc5-9b8c-edf84ed8aeba.png)
+![image](https://user-images.githubusercontent.com/32995324/229323795-ea937b64-6802-42e2-9164-4784f8210c52.png)
+
 
