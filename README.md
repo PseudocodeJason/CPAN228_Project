@@ -11,3 +11,7 @@ Add support to request items for Clothes WarehouseProject in the distribution ce
 - On form submission we should check which distribution centrecontains items for these parameters
 - Between centres with available items items should be requestedfrom the closest centre to the warehouse (warehouse shouldhave GTA area coordinates, exact location is up to you), youshould have at least 4 distribution centres and be able toclearly show me that logic works
 - If successful, stock should be replenished in warehouse anddeducted from distribution centre from which we get theitem, else we are redirected to the error page that containsmessage that stock can’t be replenished- Add bootstrap styling to all components (1%)
+
+Spring Initializr
+![image](https://user-images.githubusercontent.com/32995324/229323703-5c9d672d-d94b-4fc5-9b8c-edf84ed8aeba.png)
+
